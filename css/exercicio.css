@@ -1,0 +1,41 @@
+.image {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+  
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 70%;
+    width: 100%;
+    opacity: 0.4;
+    transition: .3s ease;
+    background-color: #1b0943;
+}
+
+.overlay a {
+    opacity: 1;
+}
+  
+.icon {
+    color: #e5e3e9;
+    font-size: 60px;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+    .icon:hover, .icon:focus{
+        color: #1b0943;
+    }
+
+.card-img-top {
+    max-height: 150px;
+}

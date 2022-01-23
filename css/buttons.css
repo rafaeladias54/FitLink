@@ -1,0 +1,38 @@
+/*
+roxo escuro - #1b0943
+roxo normal - #996eb4
+roxo claro  - #e5e3e9
+*/
+
+html, body {
+    font-family: Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.btn-dark {
+    background-color: #1b0943;
+}
+
+    .btn-dark:hover {
+        background-color: #1b0943;
+    }
+
+.btn-primary {
+    background-color: #996eb4;
+    border: #1b0943;
+}
+
+    .btn-primary:hover {
+        background-color: #996eb4;
+    }
+
+.btn-light {
+    color: #1b0943;
+}
+
+    .btn-light:hover {
+        color: #1b0943;
+    }

@@ -1,0 +1,70 @@
+body {
+    background-color: #1b0943;
+    color: white;
+}
+
+a {
+    color: #996eb4;
+}
+
+    a:hover {
+        color: white;
+    }
+
+p {
+    color: #e5e3e9;
+}
+
+.logo-img {
+    margin-top: 150px;
+    text-align: center;
+}
+
+.logo-img-login {
+    margin-top: 75px;
+    text-align: center;
+}
+
+.buttons {
+    margin-top: 150px;
+    text-align: center;
+}
+
+.buttons-login {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.loginbtn {
+    font-size: 25px;
+    margin-bottom: 5px;
+}
+
+.googlebtn {
+    font-size: 25px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+.login {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.register {
+    margin-top: 10px;
+}
+
+.plans {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.plan {
+    background-color: #e5e3e9; 
+    color: #1b0943;
+    width: 90%; 
+    margin-left: auto; 
+    margin-right: auto;
+    padding: 10px;
+}
